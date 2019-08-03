@@ -1,2 +1,2 @@
 # GoLearn
-Golang Study Code
+🐻 golang learn code.
